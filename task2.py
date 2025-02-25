@@ -8,7 +8,7 @@
 # Класс Car должен иметь поле number_of_doors и метод get_info,
 # который добавляет информацию о количестве дверей.
 # Класс Motorcycle должен иметь поле has_sidecar (True или False)
-# и метод get_info, который указывает, есть ли у мотоцикла коляска.
+# и метод get_info, который указывает, есть ли у мотоцикла коляска.№
 
 class Vehicle:
     def __init__(self, make, model, year):
